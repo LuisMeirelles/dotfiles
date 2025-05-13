@@ -1,0 +1,8 @@
+configuration {
+	font: "pango";
+	location: 4;
+	anchor: center;
+	x-offset: 0;
+	y-offset: 0;
+	width: 30%;
+}
